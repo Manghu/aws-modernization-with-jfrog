@@ -2,7 +2,7 @@ resources:
   - name: gitRepo_code
     type: GitRepo
     configuration:
-      path: jefferyfry/aws-modernization-with-jfrog
+      path: manghu/aws-modernization-with-jfrog
       gitProvider: GitHub
       branches:
         include: master
